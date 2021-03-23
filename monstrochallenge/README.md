@@ -1,4 +1,9 @@
 # Attached in this repo is my copy of the challenge : "Monstro Only"
+## Utilize the files as a base if you can't understand the following steps. 
+## To upload the challenge to Binding Of Isaac Afterbirth+ : 
+### Download this repository
+### Put it inside of the "Documents/My Games/Binding Of Isaac Afterbirth+ Mods/" (Windows locale)
+### Delete the README.md file if you wish
 # How to create a challenge excluding certain entities :
 ## Step 1 :
 ### Add a tag with an arbitrary name to all the entities you wish to not include in a challenge.
