@@ -4,6 +4,8 @@
 ### Download this repository
 ### Put it inside of the "Documents/My Games/Binding Of Isaac Afterbirth+ Mods/" (Windows locale)
 ### Delete the README.md file if you wish
+### In Binding of Isaac, activate the mod "Psuedo All Monstro Challenge" if it's not already
+### If you need help, message me on discord : xygaming#5738
 # How to create a challenge excluding certain entities :
 ## Step 1 :
 ### Add a tag with an arbitrary name to all the entities you wish to not include in a challenge.
