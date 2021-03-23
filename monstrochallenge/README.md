@@ -8,6 +8,10 @@
 ## Step 4 :
 ### Use the Special rule, 'Things in a List', with the value from step 2 (adding entities to list) to create your challenge.
 ## Step 5 :
-### If you don't want to start a new run, use the console command 'Stage' with the current stage you are on to reload the rules, and make sure everything works correctly.
+### If you do not want to start a new run, use the console command 'Stage' with the current stage you are on to reload the rules and make sure everything works correctly.
 ### NOTE : THIS DOES NOT CAUSE A NEW SEED TO BE GENERATED, EVERYTHING WILL BE THE SAME
-#### P.S. I do not want credit if I am the first to come to you with this.
+## TIPS AND TRICKS :
+### 1. Make only one entity with a tag as the first line, then follow that line with your challenge
+### 1.1 After making your challenge rules, set the setting that copies the first rule when a new rule is made, and just change the entity to whatever else you wish to exclude.
+### 2. The order in the rules must be the steps in their order.
+#### P.S. I do not want credit if I am the source of knowledge.
