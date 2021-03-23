@@ -8,7 +8,7 @@
 ### If you need help, message me on discord : xygaming#5738
 # How to create a challenge excluding certain entities :
 ## Step 1 :
-### Add a tag with an arbitrary name to all the entities you wish to not include in a challenge.
+### Add a tag (label) with an arbitrary name to all the entities you wish to not include in a challenge.
 ## Step 2 :
 ### Add all entities to a list with an arbitrary name.
 ## Step 3 :
